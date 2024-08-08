@@ -5,8 +5,8 @@ import java.util.*;
 
 public class MergeAndFindCommonIntegers {
     public static void main(String[] args) {
-        String inputFile1 = "input1.txt";
-        String inputFile2 = "input2.txt";
+        String inputFile1 = "src/main/java/org/example/input1.txt";
+        String inputFile2 = "src/main/java/org/example/input2.txt";
         String mergedFile = "merged.txt";
         String commonFile = "common.txt";
 
